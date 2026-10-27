@@ -1,0 +1,15 @@
+{
+  "name": "오늘의 10대 뉴스 브리핑",
+  "short_name": "10대뉴스",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3208/3208799.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
